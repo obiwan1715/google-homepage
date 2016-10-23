@@ -9,7 +9,7 @@
 	padding: 8px 0px 0px 0px;
 	margin-left: auto;
 	margin-right: auto;
-	width: 300px;
+	width: 280px;
 }
 
 input {
@@ -54,17 +54,54 @@ button:hover {
 }
 
 
-/*form {
-	
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}*/
+.header {
+	position: absolute;
+    top: 5px;
+	width: 100%;
+}
 
-/*img {
-	display: block;
-	padding: 8px 0px 0px 0px;
-	margin-left: auto;
-	margin-right: auto;
-}*/
+.footer {
+	position: absolute;
+    bottom: 10px;
+	width: 100%;
+}
+
+.right_nav {
+
+	float: right;
+	margin-right: 35px;
+	margin-top: 15px;
+}
+
+.right_nav a {
+
+	font-family: arial,sans-serif;
+	font-size: 13px;
+	color: gray;
+	padding: 5px 5px 5px 5px;
+	text-decoration: none;
+}
+
+.left_nav {
+
+	float: left;
+	margin-right: 35px;
+	margin-top: 15px;
+}
+
+.left_nav a {
+	font-family: arial,sans-serif;
+	font-size: 13px;
+	color: gray;
+	padding: 5px 5px 5px 5px;
+	text-decoration: none;
+}
+
+.left_nav a:hover {
+	text-decoration: underline;
+}
+
+.right_nav a:hover {
+	text-decoration: underline;
+}
 
