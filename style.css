@@ -1,0 +1,70 @@
+.main_block {
+	display: block;
+	margin-top: 200px;
+	width: 100%;
+}
+
+.logo {
+	display: block;
+	padding: 8px 0px 0px 0px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+}
+
+input {
+
+	width: 480px;
+    padding: 7px 5px 7px 5px;
+	display: block;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+
+}
+
+p.logo_subtext {
+
+	color: #4285f4;
+    font: 16px/16px roboto-regular, arial, sans-serif;
+	position: absolute;
+	margin-left: 210px;
+	margin-top: -20px;
+}
+
+.buttons {
+	padding: 18px 0px 0px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
+
+button {
+	padding: 7px 10px 7px 10px;
+	font-family: arial,sans-serif;
+	border: none;
+	font-weight: bold;
+	color: gray;
+}
+
+button:hover {
+	border: 1px solid #808080;
+
+}
+
+
+/*form {
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}*/
+
+/*img {
+	display: block;
+	padding: 8px 0px 0px 0px;
+	margin-left: auto;
+	margin-right: auto;
+}*/
+
